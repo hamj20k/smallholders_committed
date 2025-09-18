@@ -20,7 +20,7 @@ The core visualization materials include network diagrams for each historical pe
 
 #### **Period I: Colonial Canal Colonies (1880s-1947)**
 - `12p1.pdf` - Static network diagram
-- `1.2_p1.svg` - Interactive SVG with tooltips (version 1.2)
+- `1.2_p1 1880-1947.svg` - Interactive SVG with tooltips (version 1.2)
 
 #### **Period II: Partition and Resettlement (1947-1959)**
 - `12p2.pdf` - Static network diagram  
