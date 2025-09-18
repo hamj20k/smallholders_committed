@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5354pt" height="642pt" viewBox="0.00 0.00 5354.05 642.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 638.4)">
+<title>Smallholder_P3</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-638.4 5350.05,-638.4 5350.05,4 -4,4"/>
+<!-- H_PeasantProprietor -->
+<g id="node1" class="node">
+<title>H_PeasantProprietor</title>
+<g id="a_node1"><a xlink:title="Smallholders by Pakistan bands: marginal &lt;5 acres (~&lt;2 ha), small 5–12.5, medium 12.5–25. Progressive adopters emerge under HYV package; revenue via lambardar.">
+<path fill="#fff3cd" stroke="#b58900" stroke-width="2" d="M5288.98,-36C5288.98,-36 5064.32,-36 5064.32,-36 5058.32,-36 5052.32,-30 5052.32,-24 5052.32,-24 5052.32,-12 5052.32,-12 5052.32,-6 5058.32,0 5064.32,0 5064.32,0 5288.98,0 5288.98,0 5294.98,0 5300.98,-6 5300.98,-12 5300.98,-12 5300.98,-24 5300.98,-24 5300.98,-30 5294.98,-36 5288.98,-36"/>
+<text text-anchor="middle" x="5176.65" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00">H • Peasant Proprietor (chak/village)</text>
+</a>
+</g>
+</g>
+<!-- H_Lambardar -->
+<g id="node4" class="node">
+<title>H_Lambardar</title>
+<path fill="#e8dff5" stroke="#6c2eb9" stroke-width="2" d="M2730.71,-232.8C2730.71,-232.8 2486.59,-232.8 2486.59,-232.8 2480.59,-232.8 2474.59,-226.8 2474.59,-220.8 2474.59,-220.8 2474.59,-208.8 2474.59,-208.8 2474.59,-202.8 2480.59,-196.8 2486.59,-196.8 2486.59,-196.8 2730.71,-196.8 2730.71,-196.8 2736.71,-196.8 2742.71,-202.8 2742.71,-208.8 2742.71,-208.8 2742.71,-220.8 2742.71,-220.8 2742.71,-226.8 2736.71,-232.8 2730.71,-232.8"/>
+<text text-anchor="middle" x="2608.65" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">H • Lambardar/Zaildar (village/pargana)</text>
+</g>
+<!-- H_PeasantProprietor&#45;&gt;H_Lambardar -->
+<g id="edge13" class="edge">
+<title>H_PeasantProprietor-&gt;H_Lambardar</title>
+<g id="a_edge13"><a xlink:title="flow=revenue/tax | I=settlement &amp; revenue codes | K=post-reform ledgers; assessment | periodicity=annual | discretion=medium">
+<path fill="none" stroke="#8c564b" stroke-width="2" stroke-dasharray="5,2" d="M5051.58,-28.49C4623.33,-60.97 3216.98,-167.65 2756.24,-202.6"/>
+<polygon fill="#8c564b" stroke="#8c564b" stroke-width="2" points="2756.28,-199.09 2746.57,-203.34 2756.81,-206.07 2756.28,-199.09"/>
+</a>
+</g>
+<text text-anchor="middle" x="4072.38" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">land revenue (collection channel)</text>
+</g>
+<!-- H_RefugeeSmallholder -->
+<g id="node2" class="node">
+<title>H_RefugeeSmallholder</title>
+<g id="a_node2"><a xlink:title="Refugee allottees consolidated in Punjab; many regularized pre-1960s. Participation in HYV package varies with water &amp; credit access.">
+<path fill="#fff3cd" stroke="#b58900" stroke-width="2" d="M4377.02,-36C4377.02,-36 4012.28,-36 4012.28,-36 4006.28,-36 4000.28,-30 4000.28,-24 4000.28,-24 4000.28,-12 4000.28,-12 4000.28,-6 4006.28,0 4012.28,0 4012.28,0 4377.02,0 4377.02,0 4383.02,0 4389.02,-6 4389.02,-12 4389.02,-12 4389.02,-24 4389.02,-24 4389.02,-30 4383.02,-36 4377.02,-36"/>
+<text text-anchor="middle" x="4194.65" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00">H • Refugee Smallholder (chak/village, allottee/regularized)</text>
+</a>
+</g>
+</g>
+<!-- H_RefugeeSmallholder&#45;&gt;H_Lambardar -->
+<g id="edge14" class="edge">
+<title>H_RefugeeSmallholder-&gt;H_Lambardar</title>
+<g id="a_edge14"><a xlink:title="flow=revenue/tax | I=revenue codes; mutation regularization | K=village rolls; assessment | periodicity=annual | discretion=medium">
+<path fill="none" stroke="#8c564b" stroke-width="2" stroke-dasharray="5,2" d="M3999.49,-22.98C3677.92,-31.02 3050.96,-53.31 2836.7,-108 2767.41,-125.69 2693.39,-164.08 2649.08,-189.42"/>
+<polygon fill="#8c564b" stroke="#8c564b" stroke-width="2" points="2647.46,-186.32 2640.56,-194.36 2650.97,-192.37 2647.46,-186.32"/>
+</a>
+</g>
+<text text-anchor="middle" x="2877.18" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">land revenue</text>
+</g>
+<!-- H_HariTenant -->
+<g id="node3" class="node">
+<title>H_HariTenant</title>
+<g id="a_node3"><a xlink:title="Sindh sharecropping persists; evictions rise with mechanization. Bhutto (1972) reforms introduce tenant purchase rights; implementation uneven.">
+<path fill="#fff3cd" stroke="#b58900" stroke-width="2" d="M1548,-36C1548,-36 1239.3,-36 1239.3,-36 1233.3,-36 1227.3,-30 1227.3,-24 1227.3,-24 1227.3,-12 1227.3,-12 1227.3,-6 1233.3,0 1239.3,0 1239.3,0 1548,0 1548,0 1554,0 1560,-6 1560,-12 1560,-12 1560,-24 1560,-24 1560,-30 1554,-36 1548,-36"/>
+<text text-anchor="middle" x="1393.65" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00">H • Sharecropper (Hari) household (estate/village)</text>
+</a>
+</g>
+</g>
+<!-- H_Landlord -->
+<g id="node5" class="node">
+<title>H_Landlord</title>
+<path fill="#e0e0e0" stroke="#4d4d4d" stroke-width="3" d="M789.81,-433.6C789.81,-433.6 609.5,-433.6 609.5,-433.6 603.5,-433.6 597.5,-427.6 597.5,-421.6 597.5,-421.6 597.5,-409.6 597.5,-409.6 597.5,-403.6 603.5,-397.6 609.5,-397.6 609.5,-397.6 789.81,-397.6 789.81,-397.6 795.81,-397.6 801.81,-403.6 801.81,-409.6 801.81,-409.6 801.81,-421.6 801.81,-421.6 801.81,-427.6 795.81,-433.6 789.81,-433.6"/>
+<path fill="none" stroke="#4d4d4d" stroke-width="3" d="M793.81,-437.6C793.81,-437.6 605.5,-437.6 605.5,-437.6 599.5,-437.6 593.5,-431.6 593.5,-425.6 593.5,-425.6 593.5,-405.6 593.5,-405.6 593.5,-399.6 599.5,-393.6 605.5,-393.6 605.5,-393.6 793.81,-393.6 793.81,-393.6 799.81,-393.6 805.81,-399.6 805.81,-405.6 805.81,-405.6 805.81,-425.6 805.81,-425.6 805.81,-431.6 799.81,-437.6 793.81,-437.6"/>
+<text text-anchor="middle" x="699.65" y="-411.4" font-family="Helvetica,sans-Serif" font-size="14.00">H • Landlord/Wadera (estate)</text>
+</g>
+<!-- H_HariTenant&#45;&gt;H_Landlord -->
+<g id="edge15" class="edge">
+<title>H_HariTenant-&gt;H_Landlord</title>
+<g id="a_edge15"><a xlink:title="flow=rent/share (crop) | I=customary tenancy; limited protections | K=batai/adhi norms; contested cost-sharing | periodicity=seasonal | discretion=high">
+<path fill="none" stroke="#2ca02c" stroke-width="3" d="M1257.77,-36.99C1138.6,-58.41 965.75,-103.76 843.36,-196.8 779.52,-245.34 735.25,-330.89 714.02,-379.06"/>
+<polygon fill="#2ca02c" stroke="#2ca02c" stroke-width="3" points="710.91,-377.42 710.19,-387.99 717.35,-380.18 710.91,-377.42"/>
+</a>
+</g>
+<text text-anchor="middle" x="920.01" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">crop share (under strain)</text>
+</g>
+<!-- H_HariTenant&#45;&gt;H_Landlord -->
+<g id="edge17" class="edge">
+<title>H_HariTenant-&gt;H_Landlord</title>
+<g id="a_edge17"><a xlink:title="flow=claims/authority | I=1972 reforms (tenant purchase right) | K=mutation/purchase procedures | periodicity=episodic | discretion=high">
+<path fill="none" stroke="#7f7f7f" stroke-dasharray="1,5" d="M1226.43,-28.11C878.75,-48.82 103.84,-104.91 29.53,-196.8 -121.01,-382.94 350.2,-411.77 580.56,-415.02"/>
+<polygon fill="#7f7f7f" stroke="#7f7f7f" points="580.46,-418.52 590.5,-415.15 580.54,-411.52 580.46,-418.52"/>
+</a>
+</g>
+<text text-anchor="middle" x="166.09" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">claims/appeals (pre-emption/purchase right)</text>
+</g>
+<!-- Note_Hashtnagar -->
+<g id="node13" class="node">
+<title>Note_Hashtnagar</title>
+<g id="a_node13"><a xlink:title="Militant resistance coincident with mechanization &amp; tenure conflict.">
+<polygon fill="#f5f5f5" stroke="black" points="1640.4,-232.8 1140.9,-232.8 1140.9,-196.8 1646.4,-196.8 1646.4,-226.8 1640.4,-232.8"/>
+<polyline fill="none" stroke="black" points="1640.4,-232.8 1640.4,-226.8"/>
+<polyline fill="none" stroke="black" points="1646.4,-226.8 1640.4,-226.8"/>
+<text text-anchor="middle" x="1393.65" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">Hashtnagar, KP (early 1970s): MKP-led tenant uprising against khan landlords.</text>
+</a>
+</g>
+</g>
+<!-- H_HariTenant&#45;&gt;Note_Hashtnagar -->
+<!-- H_Landlord&#45;&gt;H_HariTenant -->
+<g id="edge16" class="edge">
+<title>H_Landlord-&gt;H_HariTenant</title>
+<g id="a_edge16"><a xlink:title="flow=command/authority | I=landlord discretion; weak tenant right enforcement | K=estate orders; mechanization | periodicity=episodic | discretion=high">
+<path fill="none" stroke="#7f7f7f" stroke-width="3" stroke-dasharray="1,5" d="M613.93,-392.14C498.69,-357.88 316.49,-286.95 392.05,-196.8 494.62,-74.42 952.04,-36.21 1211.83,-24.33"/>
+<polygon fill="#7f7f7f" stroke="#7f7f7f" stroke-width="3" points="1211.97,-27.83 1221.81,-23.89 1211.66,-20.84 1211.97,-27.83"/>
+</a>
+</g>
+<text text-anchor="middle" x="562.85" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">command/authority (eviction; conversion to cash lease)</text>
+</g>
+<!-- H_Landlord&#45;&gt;H_Lambardar -->
+<g id="edge18" class="edge">
+<title>H_Landlord-&gt;H_Lambardar</title>
+<g id="a_edge18"><a xlink:title="flow=revenue/tax (admin adjustment) | I=1959 ceiling (200 ha irrigated); loopholes | K=declarations; consolidation records | periodicity=episodic | discretion=high">
+<path fill="none" stroke="#8c564b" stroke-dasharray="5,2" d="M807.3,-404.74C985.35,-388.31 1352.34,-353.93 1662.65,-321.6 1945.95,-292.08 2276.58,-254.35 2462.4,-232.85"/>
+<polygon fill="#8c564b" stroke="#8c564b" points="2462.57,-236.35 2472.1,-231.73 2461.76,-229.4 2462.57,-236.35"/>
+</a>
+</g>
+<text text-anchor="middle" x="1961.92" y="-309" font-family="Helvetica,sans-Serif" font-size="14.00">declaration &amp; adjustment under ceilings (1959)</text>
+</g>
+<!-- H_Landlord&#45;&gt;H_Lambardar -->
+<g id="edge19" class="edge">
+<title>H_Landlord-&gt;H_Lambardar</title>
+<g id="a_edge19"><a xlink:title="flow=revenue/tax (title transfer admin) | I=1972 ceiling (150 irrigated) with tenant priority | K=resumption lists; allotment orders | periodicity=episodic | discretion=medium">
+<path fill="none" stroke="#8c564b" stroke-width="2" stroke-dasharray="5,2" d="M807.02,-394.27C940.72,-369.65 1176.33,-328.54 1379.77,-304.8 1585.22,-280.82 2181.63,-242.28 2461.01,-224.86"/>
+<polygon fill="#8c564b" stroke="#8c564b" stroke-width="2" points="2460.88,-228.38 2470.64,-224.26 2460.44,-221.39 2460.88,-228.38"/>
+</a>
+</g>
+<text text-anchor="middle" x="1485.21" y="-309" font-family="Helvetica,sans-Serif" font-size="14.00">resumption &amp; redistribution (1972)</text>
+</g>
+<!-- T_Headworks -->
+<g id="node6" class="node">
+<title>T_Headworks</title>
+<path fill="none" stroke="black" d="M3010.85,-634.4C3010.85,-634.4 2792.45,-634.4 2792.45,-634.4 2786.45,-634.4 2780.45,-628.4 2780.45,-622.4 2780.45,-622.4 2780.45,-610.4 2780.45,-610.4 2780.45,-604.4 2786.45,-598.4 2792.45,-598.4 2792.45,-598.4 3010.85,-598.4 3010.85,-598.4 3016.85,-598.4 3022.85,-604.4 3022.85,-610.4 3022.85,-610.4 3022.85,-622.4 3022.85,-622.4 3022.85,-628.4 3016.85,-634.4 3010.85,-634.4"/>
+<text text-anchor="middle" x="2901.65" y="-612.2" font-family="Helvetica,sans-Serif" font-size="14.00">T • Headworks/Barrage (command)</text>
+</g>
+<!-- T_MainCanal -->
+<g id="node7" class="node">
+<title>T_MainCanal</title>
+<path fill="none" stroke="black" d="M3022.91,-433.6C3022.91,-433.6 2780.39,-433.6 2780.39,-433.6 2774.39,-433.6 2768.39,-427.6 2768.39,-421.6 2768.39,-421.6 2768.39,-409.6 2768.39,-409.6 2768.39,-403.6 2774.39,-397.6 2780.39,-397.6 2780.39,-397.6 3022.91,-397.6 3022.91,-397.6 3028.91,-397.6 3034.91,-403.6 3034.91,-409.6 3034.91,-409.6 3034.91,-421.6 3034.91,-421.6 3034.91,-427.6 3028.91,-433.6 3022.91,-433.6"/>
+<text text-anchor="middle" x="2901.65" y="-411.4" font-family="Helvetica,sans-Serif" font-size="14.00">T • Main canal (command→distributary)</text>
+</g>
+<!-- T_Headworks&#45;&gt;T_MainCanal -->
+<g id="edge3" class="edge">
+<title>T_Headworks-&gt;T_MainCanal</title>
+<g id="a_edge3"><a xlink:title="flow=water | I=departmental operating rules | K=duty tables; rating curves | periodicity=in-season | discretion=low">
+<path fill="none" stroke="#1f77b4" stroke-width="3" d="M2901.65,-598.11C2901.65,-564.69 2901.65,-490.83 2901.65,-448.34"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="3" points="2905.15,-448.54 2901.65,-438.54 2898.15,-448.54 2905.15,-448.54"/>
+</a>
+</g>
+<text text-anchor="middle" x="2938.61" y="-513.8" font-family="Helvetica,sans-Serif" font-size="14.00">water (duty)</text>
+</g>
+<!-- T_Distributary -->
+<g id="node8" class="node">
+<title>T_Distributary</title>
+<path fill="none" stroke="black" d="M3761.16,-433.6C3761.16,-433.6 3622.14,-433.6 3622.14,-433.6 3616.14,-433.6 3610.14,-427.6 3610.14,-421.6 3610.14,-421.6 3610.14,-409.6 3610.14,-409.6 3610.14,-403.6 3616.14,-397.6 3622.14,-397.6 3622.14,-397.6 3761.16,-397.6 3761.16,-397.6 3767.16,-397.6 3773.16,-403.6 3773.16,-409.6 3773.16,-409.6 3773.16,-421.6 3773.16,-421.6 3773.16,-427.6 3767.16,-433.6 3761.16,-433.6"/>
+<text text-anchor="middle" x="3691.65" y="-411.4" font-family="Helvetica,sans-Serif" font-size="14.00">T • Distributary (minor)</text>
+</g>
+<!-- T_MainCanal&#45;&gt;T_Distributary -->
+<g id="edge4" class="edge">
+<title>T_MainCanal-&gt;T_Distributary</title>
+<g id="a_edge4"><a xlink:title="flow=water | I=distribution rules to minors | K=canal design tables | periodicity=in-season | discretion=medium">
+<path fill="none" stroke="#1f77b4" stroke-width="3" d="M3035.22,-415.6C3194.04,-415.6 3455.2,-415.6 3595.46,-415.6"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="3" points="3595.34,-419.1 3605.34,-415.6 3595.34,-412.1 3595.34,-419.1"/>
+</a>
+</g>
+<text text-anchor="middle" x="3322.53" y="-422.8" font-family="Helvetica,sans-Serif" font-size="14.00">water</text>
+</g>
+<!-- T_Watercourse -->
+<g id="node9" class="node">
+<title>T_Watercourse</title>
+<path fill="none" stroke="black" d="M4540.4,-433.6C4540.4,-433.6 4360.9,-433.6 4360.9,-433.6 4354.9,-433.6 4348.9,-427.6 4348.9,-421.6 4348.9,-421.6 4348.9,-409.6 4348.9,-409.6 4348.9,-403.6 4354.9,-397.6 4360.9,-397.6 4360.9,-397.6 4540.4,-397.6 4540.4,-397.6 4546.4,-397.6 4552.4,-403.6 4552.4,-409.6 4552.4,-409.6 4552.4,-421.6 4552.4,-421.6 4552.4,-427.6 4546.4,-433.6 4540.4,-433.6"/>
+<text text-anchor="middle" x="4450.65" y="-411.4" font-family="Helvetica,sans-Serif" font-size="14.00">T • Watercourse/Outlet (khal)</text>
+</g>
+<!-- T_Distributary&#45;&gt;T_Watercourse -->
+<g id="edge5" class="edge">
+<title>T_Distributary-&gt;T_Watercourse</title>
+<g id="a_edge5"><a xlink:title="flow=water | I=canal codes; outlet allocation | K=mogha sizing; roster inputs | periodicity=in-season | discretion=medium">
+<path fill="none" stroke="#1f77b4" stroke-width="2" d="M3773.6,-415.6C3909.31,-415.6 4181.08,-415.6 4335.85,-415.6"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="2" points="4335.59,-419.1 4345.59,-415.6 4335.59,-412.1 4335.59,-419.1"/>
+</a>
+</g>
+<text text-anchor="middle" x="4061.03" y="-422.8" font-family="Helvetica,sans-Serif" font-size="14.00">water</text>
+</g>
+<!-- T_Watercourse&#45;&gt;H_PeasantProprietor -->
+<g id="edge6" class="edge">
+<title>T_Watercourse-&gt;H_PeasantProprietor</title>
+<g id="a_edge6"><a xlink:title="flow=water | I=canal codes; roster enforcement | K=warabandi roster; HYV irrigation calendars | periodicity=weekly/fortnightly | discretion=medium">
+<path fill="none" stroke="#1f77b4" stroke-width="2" d="M4552.81,-399.8C4644.29,-385.03 4781.38,-359.1 4896.65,-321.6 5074.52,-263.73 5177.51,-288.14 5268.65,-124.8 5286,-93.71 5253.49,-63.61 5222.44,-43.52"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="2" points="5224.53,-40.7 5214.18,-38.43 5220.86,-46.66 5224.53,-40.7"/>
+</a>
+</g>
+<text text-anchor="middle" x="5280.68" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">warabandi water turn</text>
+</g>
+<!-- T_Watercourse&#45;&gt;H_RefugeeSmallholder -->
+<g id="edge7" class="edge">
+<title>T_Watercourse-&gt;H_RefugeeSmallholder</title>
+<g id="a_edge7"><a xlink:title="flow=water | I=regularized titles; canal codes | K=warabandi roster; HYV scheduling advice | periodicity=weekly/fortnightly | discretion=medium">
+<path fill="none" stroke="#1f77b4" stroke-width="2" d="M4439.49,-397.35C4399.48,-335.53 4263.07,-124.72 4213.14,-47.58"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="2" points="4216.18,-45.83 4207.81,-39.33 4210.3,-49.63 4216.18,-45.83"/>
+</a>
+</g>
+<text text-anchor="middle" x="4396.55" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">warabandi water turn</text>
+</g>
+<!-- T_Watercourse&#45;&gt;H_HariTenant -->
+<g id="edge8" class="edge">
+<title>T_Watercourse-&gt;H_HariTenant</title>
+<g id="a_edge8"><a xlink:title="flow=water | I=limited tenancy protections; landlord mediation | K=estate rotation; local practice | periodicity=weekly/fortnightly | discretion=high">
+<path fill="none" stroke="#1f77b4" stroke-width="2" d="M4368.63,-397.18C4118.36,-344.69 3341.88,-186.85 2690.65,-108 2293.54,-59.92 1824.63,-35.75 1573.67,-25.44"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="2" points="1573.94,-21.94 1563.81,-25.03 1573.66,-28.94 1573.94,-21.94"/>
+</a>
+</g>
+<text text-anchor="middle" x="3626.46" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">warabandi water turn (mediated/unstable)</text>
+</g>
+<!-- T_LiftDevices -->
+<g id="node10" class="node">
+<title>T_LiftDevices</title>
+<path fill="none" stroke="black" d="M4937.95,-232.8C4937.95,-232.8 4625.35,-232.8 4625.35,-232.8 4619.35,-232.8 4613.35,-226.8 4613.35,-220.8 4613.35,-220.8 4613.35,-208.8 4613.35,-208.8 4613.35,-202.8 4619.35,-196.8 4625.35,-196.8 4625.35,-196.8 4937.95,-196.8 4937.95,-196.8 4943.95,-196.8 4949.95,-202.8 4949.95,-208.8 4949.95,-208.8 4949.95,-220.8 4949.95,-220.8 4949.95,-226.8 4943.95,-232.8 4937.95,-232.8"/>
+<text text-anchor="middle" x="4781.65" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">T • Private lift/tubewells (expanding in 1960s–70s)</text>
+</g>
+<!-- T_Watercourse&#45;&gt;T_LiftDevices -->
+<g id="edge9" class="edge">
+<title>T_Watercourse-&gt;T_LiftDevices</title>
+<g id="a_edge9"><a xlink:title="flow=water | I=private pump/tubewell regimes; credit-enabled uptake | K=diesel/electric pumps; boring methods | periodicity=seasonal/continuous | discretion=high">
+<path fill="none" stroke="#1f77b4" d="M4479.73,-397.13C4539.46,-361.26 4675.92,-279.3 4742.99,-239.02"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" points="4744.68,-242.09 4751.45,-233.94 4741.08,-236.09 4744.68,-242.09"/>
+</a>
+</g>
+<text text-anchor="middle" x="4725.29" y="-309" font-family="Helvetica,sans-Serif" font-size="14.00">groundwater abstraction (boom)</text>
+</g>
+<!-- T_LiftDevices&#45;&gt;H_PeasantProprietor -->
+<g id="edge10" class="edge">
+<title>T_LiftDevices-&gt;H_PeasantProprietor</title>
+<g id="a_edge10"><a xlink:title="flow=water | I=private arrangement; custom hiring | K=HYV irrigation scheduling; conjunctive use | periodicity=episodic/seasonal | discretion=medium">
+<path fill="none" stroke="#1f77b4" d="M4817.05,-196.34C4888.55,-161.08 5050.14,-81.39 5130.07,-41.97"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" points="5131.55,-45.14 5138.97,-37.58 5128.46,-38.87 5131.55,-45.14"/>
+</a>
+</g>
+<text text-anchor="middle" x="5093.71" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">supplemental irrigation (tubewell)</text>
+</g>
+<!-- T_LiftDevices&#45;&gt;H_RefugeeSmallholder -->
+<g id="edge11" class="edge">
+<title>T_LiftDevices-&gt;H_RefugeeSmallholder</title>
+<g id="a_edge11"><a xlink:title="flow=water | I=private arrangement; credit/tenure constraints | K=localized pump use; group hiring | periodicity=episodic/seasonal | discretion=medium">
+<path fill="none" stroke="#1f77b4" d="M4729.04,-196.34C4621.39,-160.62 4376.27,-79.27 4259.21,-40.42"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" points="4260.66,-37.22 4250.06,-37.39 4258.45,-43.86 4260.66,-37.22"/>
+</a>
+</g>
+<text text-anchor="middle" x="4631.41" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">supplemental irrigation (limited by credit)</text>
+</g>
+<!-- T_LiftDevices&#45;&gt;H_HariTenant -->
+<g id="edge12" class="edge">
+<title>T_LiftDevices-&gt;H_HariTenant</title>
+<g id="a_edge12"><a xlink:title="flow=water | I=landlord-controlled access; cost-sharing | K=estate schedules; fuel/power sharing | periodicity=episodic/seasonal | discretion=high">
+<path fill="none" stroke="#1f77b4" d="M4612.97,-203.69C4294.8,-184.67 3584.17,-142.36 2985.65,-108 2472.68,-78.55 1866.66,-45.02 1572.18,-28.81"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" points="1572.67,-25.33 1562.49,-28.27 1572.28,-32.32 1572.67,-25.33"/>
+</a>
+</g>
+<text text-anchor="middle" x="3364.55" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">supplemental irrigation (landlord-controlled)</text>
+</g>
+<!-- E_IndusRiver -->
+<g id="node11" class="node">
+<title>E_IndusRiver</title>
+<path fill="none" stroke="black" d="M2193.3,-634.4C2193.3,-634.4 1992,-634.4 1992,-634.4 1986,-634.4 1980,-628.4 1980,-622.4 1980,-622.4 1980,-610.4 1980,-610.4 1980,-604.4 1986,-598.4 1992,-598.4 1992,-598.4 2193.3,-598.4 2193.3,-598.4 2199.3,-598.4 2205.3,-604.4 2205.3,-610.4 2205.3,-610.4 2205.3,-622.4 2205.3,-622.4 2205.3,-628.4 2199.3,-634.4 2193.3,-634.4"/>
+<text text-anchor="middle" x="2092.65" y="-612.2" font-family="Helvetica,sans-Serif" font-size="14.00">E • River Indus / alluvium (basin)</text>
+</g>
+<!-- E_IndusRiver&#45;&gt;T_Headworks -->
+<g id="edge2" class="edge">
+<title>E_IndusRiver-&gt;T_Headworks</title>
+<g id="a_edge2"><a xlink:title="flow=water | I=CDA 1873; seasonal allocations; large-dam era ops | K=hydraulic duty; kharif/rabi norms | periodicity=seasonal | discretion=low">
+<path fill="none" stroke="#1f77b4" stroke-width="3" d="M2205.56,-616.4C2352.3,-616.4 2608.3,-616.4 2765.59,-616.4"/>
+<polygon fill="#1f77b4" stroke="#1f77b4" stroke-width="3" points="2765.49,-619.9 2775.49,-616.4 2765.49,-612.9 2765.49,-619.9"/>
+</a>
+</g>
+<text text-anchor="middle" x="2492.87" y="-623.6" font-family="Helvetica,sans-Serif" font-size="14.00">water</text>
+</g>
+<!-- E_AridTracts -->
+<g id="node12" class="node">
+<title>E_AridTracts</title>
+<path fill="none" stroke="black" d="M2174.52,-232.8C2174.52,-232.8 1946.79,-232.8 1946.79,-232.8 1940.79,-232.8 1934.79,-226.8 1934.79,-220.8 1934.79,-220.8 1934.79,-208.8 1934.79,-208.8 1934.79,-202.8 1940.79,-196.8 1946.79,-196.8 1946.79,-196.8 2174.52,-196.8 2174.52,-196.8 2180.52,-196.8 2186.52,-202.8 2186.52,-208.8 2186.52,-208.8 2186.52,-220.8 2186.52,-220.8 2186.52,-226.8 2180.52,-232.8 2174.52,-232.8"/>
+<text text-anchor="middle" x="2060.65" y="-210.6" font-family="Helvetica,sans-Serif" font-size="14.00">E • Arid tracts / Cholistan (commons)</text>
+</g>
+<!-- E_AridTracts&#45;&gt;H_HariTenant -->
+<g id="edge20" class="edge">
+<title>E_AridTracts-&gt;H_HariTenant</title>
+<g id="a_edge20"><a xlink:title="flow=spatial/exclusion | I=no formal claims; eviction spillovers | K=seasonal wage work; commons | periodicity=episodic/seasonal | discretion=high">
+<path fill="none" stroke="#bcbd22" stroke-dasharray="5,2" d="M2000.87,-196.34C1878.18,-160.51 1598.34,-78.78 1465.8,-40.07"/>
+<polygon fill="#bcbd22" stroke="#bcbd22" points="1467.02,-36.78 1456.44,-37.34 1465.05,-43.5 1467.02,-36.78"/>
+</a>
+</g>
+<text text-anchor="middle" x="1859.21" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00">seasonal coping / informal migration</text>
+</g>
+</g>
+</svg>
